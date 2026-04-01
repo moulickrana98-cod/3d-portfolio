@@ -4,7 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: https://moulick-3d.vercel.app/
 
-![Portfolio Preview](public/images/preview1.png)
+
 
 ## Table of Contents
 
